@@ -1,0 +1,35 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="13">
+            <item index="0" class="java.lang.String" itemvalue="websockets" />
+            <item index="1" class="java.lang.String" itemvalue="typing_extensions" />
+            <item index="2" class="java.lang.String" itemvalue="alibabacloud_oss_util" />
+            <item index="3" class="java.lang.String" itemvalue="alibabacloud_tea_fileform" />
+            <item index="4" class="java.lang.String" itemvalue="alibabacloud_tea_xml" />
+            <item index="5" class="java.lang.String" itemvalue="alibabacloud_openapi_util" />
+            <item index="6" class="java.lang.String" itemvalue="pydantic_core" />
+            <item index="7" class="java.lang.String" itemvalue="alibabacloud_endpoint_util" />
+            <item index="8" class="java.lang.String" itemvalue="alibabacloud_oss_sdk" />
+            <item index="9" class="java.lang.String" itemvalue="alibabacloud_tea_util" />
+            <item index="10" class="java.lang.String" itemvalue="alibabacloud_credentials" />
+            <item index="11" class="java.lang.String" itemvalue="alibabacloud_tea_openapi" />
+            <item index="12" class="java.lang.String" itemvalue="alibabacloud_gateway_spi" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SqlDialectInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SqlNoDataSourceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
